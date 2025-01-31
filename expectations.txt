@@ -1,3 +1,5 @@
 Expectations:
 
 - To learn how to design and implement web applications while learning to collaborate with other co-developers.
+
+Perfect. I agree and you shall prevail.
